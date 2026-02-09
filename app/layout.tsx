@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Vacances Planner",
+  title: "Vacances Planner ✅",
   description: "Organise tes voyages",
   icons: {
     icon: "/icon.png",
